@@ -1,15 +1,28 @@
 # wallpapers
+beach-anime.png
+![beach-anime.png](./walls/beach-anime.png)
 
-beach-anime.png ![beach-anime.png](./walls/beach-anime.png)
+island-night.png
+![island-night.png](./walls/island-night.png)
 
-island-night.png ![island-night.png](./walls/island-night.png)
+lighthouse.png
+![lighthouse.png](./walls/lighthouse.png)
 
-lighthouse.png ![lighthouse.png](./walls/lighthouse.png)
+macross-sdf-full.png
+![macross-sdf-full.png](./walls/macross-sdf-full.png)
 
-macross-sdf-full.png ![macross-sdf-full.png](./walls/macross-sdf-full.png)
+ocean-rock.png
+![ocean-rock.png](./walls/ocean-rock.png)
 
-planet-ocean.png ![planet-ocean.png](./walls/planet-ocean.png)
+planet-ocean.png
+![planet-ocean.png](./walls/planet-ocean.png)
 
-thunderstorm-sea.png ![thunderstorm-sea.png](./walls/thunderstorm-sea.png)
+snowy-anime.png
+![snowy-anime.png](./walls/snowy-anime.png)
 
-tokyo.png ![tokyo.png](./walls/tokyo.png)
+thunderstorm-sea.png
+![thunderstorm-sea.png](./walls/thunderstorm-sea.png)
+
+tokyo.png
+![tokyo.png](./walls/tokyo.png)
+
