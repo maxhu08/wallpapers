@@ -6,6 +6,9 @@ beach-anime.png
 hiroshi-nagai-coastline.png
 ![hiroshi-nagai-coastline.png](./walls/hiroshi-nagai-coastline.png)
 
+hut.png
+![hut.png](./walls/hut.png)
+
 island-night.png
 ![island-night.png](./walls/island-night.png)
 
@@ -17,6 +20,9 @@ macross-sdf-full.png
 
 ocean-rock.png
 ![ocean-rock.png](./walls/ocean-rock.png)
+
+pixelated-waterfall.jpg
+![pixelated-waterfall.jpg](./walls/pixelated-waterfall.jpg)
 
 planet-ocean.png
 ![planet-ocean.png](./walls/planet-ocean.png)
