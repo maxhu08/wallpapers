@@ -6,6 +6,9 @@ beach-anime.png
 hiroshi-nagai-coastline.png
 ![hiroshi-nagai-coastline.png](./walls/hiroshi-nagai-coastline.png)
 
+hiroshi-nagai-field.jpg
+![hiroshi-nagai-field.jpg](./walls/hiroshi-nagai-field.jpg)
+
 hut.png
 ![hut.png](./walls/hut.png)
 
@@ -26,6 +29,9 @@ pixelated-waterfall.jpg
 
 planet-ocean.png
 ![planet-ocean.png](./walls/planet-ocean.png)
+
+river-valley.png
+![river-valley.png](./walls/river-valley.png)
 
 snowy-anime.png
 ![snowy-anime.png](./walls/snowy-anime.png)
