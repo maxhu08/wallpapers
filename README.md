@@ -1,7 +1,13 @@
 # wallpapers
 
-beach-anime.png
-![beach-anime.png](./walls/beach-anime.png)
+anime-beach.png
+![anime-beach.png](./walls/anime-beach.png)
+
+anime-cloudy.jpeg
+![anime-cloudy.jpeg](./walls/anime-cloudy.jpeg)
+
+anime-snowy.png
+![anime-snowy.png](./walls/anime-snowy.png)
 
 hiroshi-nagai-coastline.png
 ![hiroshi-nagai-coastline.png](./walls/hiroshi-nagai-coastline.png)
@@ -32,9 +38,6 @@ planet-ocean.png
 
 river-valley.png
 ![river-valley.png](./walls/river-valley.png)
-
-snowy-anime.png
-![snowy-anime.png](./walls/snowy-anime.png)
 
 thunderstorm-sea.png
 ![thunderstorm-sea.png](./walls/thunderstorm-sea.png)
