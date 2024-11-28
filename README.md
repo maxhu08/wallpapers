@@ -3,17 +3,23 @@
 anime-beach.png
 ![anime-beach.png](./walls/anime-beach.png)
 
-anime-cloudy.jpeg
-![anime-cloudy.jpeg](./walls/anime-cloudy.jpeg)
+anime-cloudy.png
+![anime-cloudy.png](./walls/anime-cloudy.png)
 
 anime-snowy.png
 ![anime-snowy.png](./walls/anime-snowy.png)
 
+cliff-road.png
+![cliff-road.png](./walls/cliff-road.png)
+
+cyber-city.png
+![cyber-city.png](./walls/cyber-city.png)
+
 hiroshi-nagai-coastline.png
 ![hiroshi-nagai-coastline.png](./walls/hiroshi-nagai-coastline.png)
 
-hiroshi-nagai-field.jpg
-![hiroshi-nagai-field.jpg](./walls/hiroshi-nagai-field.jpg)
+hiroshi-nagai-field.png
+![hiroshi-nagai-field.png](./walls/hiroshi-nagai-field.png)
 
 hut.png
 ![hut.png](./walls/hut.png)
@@ -29,6 +35,9 @@ macross-sdf-full.png
 
 ocean-rock.png
 ![ocean-rock.png](./walls/ocean-rock.png)
+
+orange-sky.jpg
+![orange-sky.jpg](./walls/orange-sky.jpg)
 
 pixelated-waterfall.jpg
 ![pixelated-waterfall.jpg](./walls/pixelated-waterfall.jpg)
