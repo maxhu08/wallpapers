@@ -15,6 +15,12 @@ cliff-road.png
 cyber-city.png
 ![cyber-city.png](./walls/cyber-city.png)
 
+gray-beach.png
+![gray-beach.png](./walls/gray-beach.png)
+
+high-mountains.png
+![high-mountains.png](./walls/high-mountains.png)
+
 hiroshi-nagai-coastline.png
 ![hiroshi-nagai-coastline.png](./walls/hiroshi-nagai-coastline.png)
 
