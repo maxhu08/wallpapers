@@ -36,11 +36,20 @@ iceland-canyons.jpg
 island-night.png
 ![island-night.png](./walls/island-night.png)
 
+lake-house.jpg
+![lake-house.jpg](./walls/lake-house.jpg)
+
 lighthouse.png
 ![lighthouse.png](./walls/lighthouse.png)
 
 macross-sdf-full.png
 ![macross-sdf-full.png](./walls/macross-sdf-full.png)
+
+mountain-galaxy.png
+![mountain-galaxy.png](./walls/mountain-galaxy.png)
+
+mountain-lake.png
+![mountain-lake.png](./walls/mountain-lake.png)
 
 ocean-rock.png
 ![ocean-rock.png](./walls/ocean-rock.png)
