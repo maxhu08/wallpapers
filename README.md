@@ -12,8 +12,14 @@ anime-snowy.png
 cliff-road.png
 ![cliff-road.png](./walls/cliff-road.png)
 
+cloud-bridge.jpg
+![cloud-bridge.jpg](./walls/cloud-bridge.jpg)
+
 cyber-city.png
 ![cyber-city.png](./walls/cyber-city.png)
+
+foggy-forest.jpg
+![foggy-forest.jpg](./walls/foggy-forest.jpg)
 
 gray-beach.png
 ![gray-beach.png](./walls/gray-beach.png)
@@ -44,6 +50,9 @@ lighthouse.png
 
 macross-sdf-full.png
 ![macross-sdf-full.png](./walls/macross-sdf-full.png)
+
+minecraft-cathedral.png
+![minecraft-cathedral.png](./walls/minecraft-cathedral.png)
 
 mountain-galaxy.png
 ![mountain-galaxy.png](./walls/mountain-galaxy.png)
