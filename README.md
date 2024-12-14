@@ -54,6 +54,9 @@ macross-sdf-full.png
 minecraft-cathedral.png
 ![minecraft-cathedral.png](./walls/minecraft-cathedral.png)
 
+minimal-gradient-1.png
+![minimal-gradient-1.png](./walls/minimal-gradient-1.png)
+
 mountain-galaxy.png
 ![mountain-galaxy.png](./walls/mountain-galaxy.png)
 
