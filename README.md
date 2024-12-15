@@ -51,8 +51,11 @@ lighthouse.png
 macross-sdf-full.png
 ![macross-sdf-full.png](./walls/macross-sdf-full.png)
 
-minecraft-cathedral.png
-![minecraft-cathedral.png](./walls/minecraft-cathedral.png)
+minecraft-cathedral-1.png
+![minecraft-cathedral-1.png](./walls/minecraft-cathedral-1.png)
+
+minecraft-cathedral-2.png
+![minecraft-cathedral-2.png](./walls/minecraft-cathedral-2.png)
 
 minimal-gradient-1.png
 ![minimal-gradient-1.png](./walls/minimal-gradient-1.png)
