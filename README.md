@@ -60,6 +60,9 @@ minecraft-cathedral-2.png
 minimal-gradient-1.png
 ![minimal-gradient-1.png](./walls/minimal-gradient-1.png)
 
+minimal-gradient-2.png
+![minimal-gradient-2.png](./walls/minimal-gradient-2.png)
+
 mountain-galaxy.png
 ![mountain-galaxy.png](./walls/mountain-galaxy.png)
 
