@@ -21,6 +21,9 @@ cyber-city.png
 foggy-forest.jpg
 ![foggy-forest.jpg](./walls/foggy-forest.jpg)
 
+gloomy-lake.jpg
+![gloomy-lake.jpg](./walls/gloomy-lake.jpg)
+
 gray-beach.png
 ![gray-beach.png](./walls/gray-beach.png)
 
