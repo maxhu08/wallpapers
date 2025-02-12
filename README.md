@@ -72,6 +72,9 @@ minimal-gradient-3.png
 minimal-gradient-4.png
 ![minimal-gradient-4.png](./walls/minimal-gradient-4.png)
 
+minimal-gradient-5.png
+![minimal-gradient-5.png](./walls/minimal-gradient-5.png)
+
 mountain-galaxy.png
 ![mountain-galaxy.png](./walls/mountain-galaxy.png)
 
