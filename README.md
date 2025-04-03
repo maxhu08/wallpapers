@@ -9,6 +9,9 @@ anime-cloudy.png
 anime-snowy.png
 ![anime-snowy.png](./walls/anime-snowy.png)
 
+city-bridge-night.jpg
+![city-bridge-night.jpg](./walls/city-bridge-night.jpg)
+
 cliff-road.png
 ![cliff-road.png](./walls/cliff-road.png)
 
@@ -35,6 +38,9 @@ hiroshi-nagai-coastline.png
 
 hiroshi-nagai-field.png
 ![hiroshi-nagai-field.png](./walls/hiroshi-nagai-field.png)
+
+house-snow-sky.png
+![house-snow-sky.png](./walls/house-snow-sky.png)
 
 hut.png
 ![hut.png](./walls/hut.png)
@@ -74,6 +80,9 @@ minimal-gradient-4.png
 
 minimal-gradient-5.png
 ![minimal-gradient-5.png](./walls/minimal-gradient-5.png)
+
+monotone-city.jpg
+![monotone-city.jpg](./walls/monotone-city.jpg)
 
 mountain-galaxy.png
 ![mountain-galaxy.png](./walls/mountain-galaxy.png)
