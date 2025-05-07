@@ -108,6 +108,9 @@ planet-ocean.png
 river-valley.png
 ![river-valley.png](./walls/river-valley.png)
 
+rocky-beach-gloomy.png
+![rocky-beach-gloomy.png](./walls/rocky-beach-gloomy.png)
+
 thunderstorm-sea.png
 ![thunderstorm-sea.png](./walls/thunderstorm-sea.png)
 
