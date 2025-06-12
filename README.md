@@ -111,6 +111,9 @@ river-valley.png
 rocky-beach-gloomy.png
 ![rocky-beach-gloomy.png](./walls/rocky-beach-gloomy.png)
 
+snowy-mountain.jpg
+![snowy-mountain.jpg](./walls/snowy-mountain.jpg)
+
 thunderstorm-sea.png
 ![thunderstorm-sea.png](./walls/thunderstorm-sea.png)
 
