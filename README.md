@@ -1,4 +1,4 @@
--e # wallpapers
+# wallpapers
 
 anime-beach.png
 ![anime-beach.png](./walls/anime-beach.png)
@@ -101,6 +101,9 @@ minimal-gradient-4.png
 
 minimal-gradient-5.png
 ![minimal-gradient-5.png](./walls/minimal-gradient-5.png)
+
+minimal-gradient-6.png
+![minimal-gradient-6.png](./walls/minimal-gradient-6.png)
 
 monotone-city.jpg
 ![monotone-city.jpg](./walls/monotone-city.jpg)
