@@ -9,6 +9,9 @@ anime-cloudy.png
 anime-snowy.png
 ![anime-snowy.png](./walls/anime-snowy.png)
 
+big-sur-coastline.jpg
+![big-sur-coastline.jpg](./walls/big-sur-coastline.jpg)
+
 blue-clouds.png
 ![blue-clouds.png](./walls/blue-clouds.png)
 
